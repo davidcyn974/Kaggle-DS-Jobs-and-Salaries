@@ -11,13 +11,11 @@ This repository contains a Kaggle project focused on exploring data science jobs
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
-To get started with this project, you can clone the repository and install any necessary dependencies.
+To get started with this project, you can clone the repository and install necessary dependencies.
+Or directly go into the github page and load document
 
 ```bash
 # Clone the repository
@@ -26,5 +24,18 @@ git clone https://github.com/davidcyn974/Kaggle-DS-Jobs-and-Salaries.git
 # Navigate to the project directory
 cd Kaggle-DS-Jobs-and-Salaries
 
-# Install dependencies (if any)
-# Add specific installation steps if needed
+# Install dependencies using pip
+pip install pandas matplotlib seaborn scikit-learn
+
+# Install dependencies using requirements.txt
+pip install -r requirements.txt
+
+
+-----Or-------
+
+
+# Go to the github repository
+[https://github.com/davidcyn974/Kaggle-DS-Jobs-and-Salaries.git](https://github.com/davidcyn974/Kaggle-DS-Jobs-and-Salaries/tree/main)
+
+# CLick on data-science-jobs-salaries-notebook.ipynb file
+```
