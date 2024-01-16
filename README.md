@@ -14,9 +14,8 @@ This repository contains a Kaggle project focused on exploring data science jobs
 - [Installation](#installation)
 
 
-Below are the Tableau visualizations based on different criteria:
-
 ## Tableau Visualizations
+Below are the Tableau visualizations based on different criteria:
 
 1. [Tableau Dashboard 1: Salary Analysis Based on Different Criteria](https://public.tableau.com/app/profile/david.cyn/viz/DataSciencesalaryanalysisbasedondifferentcriteria/Tableaudebord1)
 
