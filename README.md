@@ -10,8 +10,18 @@ This repository contains a Kaggle project focused on exploring data science jobs
 
 ## Table of Contents
 
+- [Tableau](#tableau)
 - [Installation](#installation)
 
+
+Below are the Tableau visualizations based on different criteria:
+
+## Tableau Visualizations
+
+1. [Tableau Dashboard 1: Salary Analysis Based on Different Criteria](https://public.tableau.com/app/profile/david.cyn/viz/DataSciencesalaryanalysisbasedondifferentcriteria/Tableaudebord1)
+
+2. [Tableau Dashboard 2: Average Salary depending on Job Category, for each experience level](https://public.tableau.com/app/profile/david.cyn/viz/DataSciencesalaryanalysis_17054053690300/Tableaudebord3)
+  
 ## Installation
 
 To get started with this project, you can clone the repository and install necessary dependencies.
